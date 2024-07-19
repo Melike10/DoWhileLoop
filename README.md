@@ -1,2 +1,2 @@
 # DoWhileLoop
-kullanıcıdan alınan limit değeri kadar do while döngüsü içinde yazı yazdırma örneğidir.
+kullanıcıdan alınan limit değeri kadar do while döngüsü ve while dögüsü kullanılarak yazı yazdırma örneğidir.

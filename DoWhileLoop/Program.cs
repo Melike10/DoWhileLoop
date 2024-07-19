@@ -5,8 +5,8 @@ while(sayac <= limit){
     Console.WriteLine("Ben bir Patika'lıyım.");
 }
 
-int sayac = 0;
-int limit;
+sayac = 0;
+limit =0;
 do
 {
 

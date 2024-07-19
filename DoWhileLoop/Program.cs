@@ -1,9 +1,16 @@
 ﻿int sayac = 0;
+ Console.WriteLine("Lütfen bir limit Giriniz");
+int limit = int.Parse(Console.ReadLine());
+while(sayac <= limit){
+    Console.WriteLine("Ben bir Patika'lıyım.");
+}
+
+int sayac = 0;
 int limit;
 do
 {
 
-    Console.WriteLine("Litfen bir limit Giriniz");
+    Console.WriteLine("Lütfen bir limit Giriniz");
     limit = int.Parse(Console.ReadLine());
     if (limit >= 0) {
         Console.WriteLine("Ben bir Patika'lıyım.");
